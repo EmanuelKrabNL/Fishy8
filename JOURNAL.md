@@ -118,4 +118,6 @@ after:
 never been more proud of myself.
 I have spent 3.5 hours minimum on the audio and bugfixing.
 
+i am lucky i started early, or i wouldnt have (barely) hit the 10 hour mark.
+
 Thats about it
