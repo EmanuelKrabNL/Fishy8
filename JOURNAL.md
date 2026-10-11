@@ -52,13 +52,14 @@ I have autism and adhd, and using timers gives me stress, and i cant use stress 
 
 today was a long, not really productive day, more evening...
 
+# TL;DR
 ## finished layout
 ## found camera size
 ## rerouted pcb
 # (Almost) added microphone!
 ## realising every minute my camera choice is the best
 
-i have testweek, and id wish i could do more.
+i have testweek, and id wish i could do more!
 
 this is short, because im scared my parents will catch me mid night...
 
