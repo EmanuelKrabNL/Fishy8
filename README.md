@@ -6,6 +6,7 @@ FISHeYe lens + hi8 = FISHY8!
 Original name was FISH8 but FISHY8 sounds more jolly.
 
 Why have i made it? Those old sony handycams are increndibly hard to get. Except if you live near the old camera market in barcelona (I still hate that it wasnt open when i was there.), so, why not make one that costs a one time payment of max 120 bucks, and doesnt require extra additions like those 100 dollar converters. but has a 15 dollar converter inside of it!
+Disclaimer: this project does not require any firmware, and gets over the 30 dollar limit. I will pay for it with my own money, therefore, the 30 bucks will help, but it wont be enough.
 
 I got a fpv camera with fisheye built in, for easyness: footage looks like this:
 <img width="1920" height="7863" alt="image" src="https://github.com/user-attachments/assets/74478870-7d0e-4082-aef5-84f7790e329f" />
