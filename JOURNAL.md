@@ -61,6 +61,16 @@ today was a long, not really productive day, more evening...
 
 i have testweek, and id wish i could do more!
 
+The hard part was adding the mic, because i made a small mistake in my head, because i was tired of learning the whole day i didnt understand what i did wrong... And got in a  kind of 'love me love me not' cycle
+
+i understand it
+what did i understand
+i dont understand
+oh i understand again
+what am i even adding?
+
 this is short, because im scared my parents will catch me mid night...
+
+i might add a battery
 
 have a nice day yall!
