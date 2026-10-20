@@ -21,7 +21,7 @@ The included 'joystick', can control if you want your video to be ntsc or pal, a
 
 ## BOM
 For the Bom file, please go here!
-Read the [Contribution Guidelines](Bom.csv) for this project.
+Read the [Bom file](Bom.csv) for this project.
 
 (I dont really know how to link files, but i think it needs to be done like this)
 
