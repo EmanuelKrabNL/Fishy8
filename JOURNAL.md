@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T21:20:50.310Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvl4ykm01i001pyt693c9zh). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A small analog camera with fisheye that you can snap on the back of your phone. It has actual colour bleeding and everything to make YOUR footage look cool...... If it somehow works.... Buying an old camcorder like a trv308 can be a HUGE pain!!! So why not make one myself?  Im hoping this works, since this will be my first project of this kind! (not a pcb, but with camera and everything!)
 
